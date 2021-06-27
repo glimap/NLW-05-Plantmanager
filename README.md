@@ -7,5 +7,3 @@
 - React Native
 - Type Script
 - Expo
-
-@Rocktseat
