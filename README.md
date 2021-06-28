@@ -1,4 +1,4 @@
-<h1>Plant Manager 🍃</h1>
+<h1>🍃 Plant Manager</h1>
 
 <p>Desenvolvido durante a NLW#05, o Plant Manager é um app de lembrete para que possa regar suas Plantas de forma correta, informando também a quantidade de água e o melhor local para colocar uma determinada Planta.</p>
 
